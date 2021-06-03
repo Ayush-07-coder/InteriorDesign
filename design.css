@@ -174,28 +174,33 @@ margin-top: 50px;
 //border-radius: 5px;
 }
 .last a{
-float: left;
 padding: 10px 20px;
 font-size: 25px;
 text-decoration: none;
 color: white;
-}
-.icon a{
 margin: 0px 1px 0px 1px;
-//border-radius: 48%;
 float: right;
-} 
+transition-duration: 900ms;
+}
 .fac:hover{
 background: black;
+color: blue;
+border-radius: 50%;
 }
 .twi:hover{
 background: black;
+color: blue;
+border-radius: 50%;
 }
 .wha:hover{
 background: black;
+color: green;
+border-radius: 50%;
 }
 .inst:hover{
 background: black;
+color: red;
+border-radius: 50%;
 }
 
 	
